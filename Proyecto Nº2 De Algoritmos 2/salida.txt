@@ -1,0 +1,133 @@
+1 Inicializando proceso p5 en el procesador 1
+1 Inicializando proceso p2 en el procesador 2
+1 Inicializando proceso p1 en el procesador 3
+1 Inicializando proceso p9 en el procesador 4
+10 Finalizado proceso p5 en el procesador 1
+10 Finalizado proceso p9 en el procesador 4
+11 Empilando 1 subprocesos del proceso p6 en el procesador 1
+11 Inicializando proceso p6 en el procesador 1
+11 Empilando 2 subprocesos del proceso p8 en el procesador 4
+11 Inicializando proceso p8 en el procesador 4
+20 Finalizado proceso p6 en el procesador 1
+21 Iniciando proceso p6 - 0 en el procesador 1
+20 Finalizado proceso p8 en el procesador 4
+21 Iniciando proceso p8 - 1 en el procesador 4
+30 Finalizado proceso p6 - 0 en el procesador 1
+30 Finalizado proceso p8 - 0 en el procesador 4
+31 Iniciando proceso p8 - 0 - 0 en el procesador 4
+31 Inicializando proceso p7 en el procesador 1
+40 Finalizado proceso p7 en el procesador 1
+40 Finalizado proceso p8 - 1 en el procesador 4
+41 Empilando 1 subprocesos del proceso p10 en el procesador 1
+41 Inicializando proceso p10 en el procesador 1
+50 Finalizado proceso p10 en el procesador 1
+51 Iniciando proceso p10 - 0 en el procesador 1
+60 Finalizado proceso p10 - 0 en el procesador 1
+100 Listado
+p2 1 900 1901 en el procesador 2
+p1 1 100 901 en el procesador 3
+p3 2 1000 10 Cola de Prioridades 
+p4 3 100 100 Cola de Prioridades 
+Fin Listado
+200 Listado
+p2 1 900 1801 en el procesador 2
+p1 1 100 801 en el procesador 3
+p3 2 1000 10 Cola de Prioridades 
+p4 3 100 100 Cola de Prioridades 
+Fin Listado
+300 Listado
+p2 1 900 1701 en el procesador 2
+p1 1 100 701 en el procesador 3
+p3 2 1000 10 Cola de Prioridades 
+p4 3 100 100 Cola de Prioridades 
+Fin Listado
+400 Listado
+p2 1 900 1601 en el procesador 2
+p1 1 100 601 en el procesador 3
+p3 2 1000 10 Cola de Prioridades 
+p4 3 100 100 Cola de Prioridades 
+Fin Listado
+500 Listado
+p2 1 900 1501 en el procesador 2
+p1 1 100 501 en el procesador 3
+p3 2 1000 10 Cola de Prioridades 
+p4 3 100 100 Cola de Prioridades 
+Fin Listado
+600 Listado
+p2 1 900 1401 en el procesador 2
+p1 1 100 401 en el procesador 3
+p3 2 1000 10 Cola de Prioridades 
+p4 3 100 100 Cola de Prioridades 
+Fin Listado
+700 Listado
+p2 1 900 1301 en el procesador 2
+p1 1 100 301 en el procesador 3
+p3 2 1000 10 Cola de Prioridades 
+p4 3 100 100 Cola de Prioridades 
+Fin Listado
+800 Listado
+p2 1 900 1201 en el procesador 2
+p1 1 100 201 en el procesador 3
+p3 2 1000 10 Cola de Prioridades 
+p4 3 100 100 Cola de Prioridades 
+Fin Listado
+900 Listado
+p2 1 900 1101 en el procesador 2
+p1 1 100 101 en el procesador 3
+p3 2 1000 10 Cola de Prioridades 
+p4 3 100 100 Cola de Prioridades 
+Fin Listado
+1000 Listado
+p2 1 900 1001 en el procesador 2
+p1 1 100 1 en el procesador 3
+p3 2 1000 10 Cola de Prioridades 
+p4 3 100 100 Cola de Prioridades 
+Fin Listado
+1000 Finalizado proceso p1 en el procesador 3
+1001 Inicializando proceso p4 en el procesador 1
+1100 Listado
+p4 3 100 1 en el procesador 1
+p2 1 900 901 en el procesador 2
+p3 2 1000 10 Cola de Prioridades 
+Fin Listado
+1100 Finalizado proceso p4 en el procesador 1
+1200 Listado
+p2 1 900 801 en el procesador 2
+p3 2 1000 10 Cola de Prioridades 
+Fin Listado
+1300 Listado
+p2 1 900 701 en el procesador 2
+p3 2 1000 10 Cola de Prioridades 
+Fin Listado
+1400 Listado
+p2 1 900 601 en el procesador 2
+p3 2 1000 10 Cola de Prioridades 
+Fin Listado
+1500 Listado
+p2 1 900 501 en el procesador 2
+p3 2 1000 10 Cola de Prioridades 
+Fin Listado
+1600 Listado
+p2 1 900 401 en el procesador 2
+p3 2 1000 10 Cola de Prioridades 
+Fin Listado
+1700 Listado
+p2 1 900 301 en el procesador 2
+p3 2 1000 10 Cola de Prioridades 
+Fin Listado
+1800 Listado
+p2 1 900 201 en el procesador 2
+p3 2 1000 10 Cola de Prioridades 
+Fin Listado
+1900 Listado
+p2 1 900 101 en el procesador 2
+p3 2 1000 10 Cola de Prioridades 
+Fin Listado
+2000 Listado
+p2 1 900 1 en el procesador 2
+p3 2 1000 10 Cola de Prioridades 
+Fin Listado
+2000 Finalizado proceso p2 en el procesador 2
+2001 Inicializando proceso p3 en el procesador 1
+2010 Finalizado proceso p3 en el procesador 1
+2012 Fin 

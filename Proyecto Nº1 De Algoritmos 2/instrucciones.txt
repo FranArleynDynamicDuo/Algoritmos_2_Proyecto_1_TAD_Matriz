@@ -1,0 +1,23 @@
+READ datos.txt M0
+TRANSPOSE M0 M1
+GET M2 2 2
+SET M2 2 2 -8
+
+   def multiplicar(self,N,F):
+
+      # Procedimiento en donde se multiplican dos matrices.
+
+      Mx = Matriz()
+      Mx.crear(N.fila,F.columna)
+
+      for i in range(N.fila):
+
+         for j in range(F.columna):
+
+            for k in range(N.columna):
+
+               Mx.comp[i][j] = Mx.comp[i][j] + (N.comp[i][k]*F.comp[k][j])
+
+      print(" La multiplicacion de matrices es: ", Mx.comp)
+      print()
+      return Mx

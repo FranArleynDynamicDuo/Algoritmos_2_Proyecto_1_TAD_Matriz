@@ -1,0 +1,10 @@
+proceso p1 1 100 1000 0
+proceso p2 1 900 2000 0
+proceso p3 2 1000 10 0
+proceso p4 3 100 100 0
+proceso p5 1 10 10 0
+proceso p6 2 10 10 1
+proceso p7 3 10 10 0
+proceso p8 3 10 10 2
+proceso p9 2 10 10 0
+proceso p10 4 10 10 1
